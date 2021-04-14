@@ -1,0 +1,29 @@
+#PLATFORMS x y length direction pixels to move
+10
+2 23 3 0 0
+4 10 11 1 5
+7 2 6 0 0 
+8 24 6 0 0
+11 9 8 1 10
+15 15 7 1 6
+17 1 6 0 0
+24 13 6 1 4 
+26 5 6 2 6
+27 23 6 0 0
+#POWERUPS x y type power
+10
+2 19 1 10
+3 12 0 10
+6 4 1 15
+7 27 0 16
+10 13 1 6
+14 18 0 7
+15 3 1 7
+15 5 0 20
+22 7 1 25
+23 19 0 25
+#DOOR x y type nextmap
+1
+25 27 0 4
+#PLAYER POSITION
+2 24
